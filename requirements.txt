@@ -1,0 +1,11 @@
+python-dotenv
+yfinance
+matplotlib
+seaborn
+pyportfolioopt
+python-binance
+ta
+TA-Lib
+pandas
+numpy
+scikit-learn

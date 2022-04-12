@@ -1,0 +1,14 @@
+# Python for Finance: Risk and Return
+https://github.com/LearnPythonWithRune/PythonForFinanceRiskAndReturn
+
+# Trading Strategies
+https://github.com/freqtrade/freqtrade-strategies/tree/master/user_data/strategies/berlinguyinca
+
+
+# LSTMs
+- https://medium.com/the-handbook-of-coding-in-finance/stock-prices-prediction-using-long-short-term-memory-lstm-model-in-python-734dd1ed6827
+- https://tcoil.info/stock-price-trend-prediction-using-neural-network-with-pytorch
+
+
+# Financial Reinforcement Learning
+https://github.com/AI4Finance-Foundation/FinRL
